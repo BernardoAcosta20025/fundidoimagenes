@@ -1,0 +1,5 @@
+package com.bernardo.fundidoimagenes
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
